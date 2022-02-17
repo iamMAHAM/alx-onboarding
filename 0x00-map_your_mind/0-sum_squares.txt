@@ -3,6 +3,6 @@ Read numbers
 sum = 0
 
 FOREACH number in numbers
-	sum = sum + number
+	sum = sum + number*number
 	
 Write("sum is", sum)
