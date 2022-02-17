@@ -1,0 +1,8 @@
+Read numbers
+
+sum = 0
+
+FOREACH number in numbers
+	sum = sum + number
+	
+Write("sum is", sum)
